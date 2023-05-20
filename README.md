@@ -1,9 +1,5 @@
 # Expanding Cards
-
-Traversy-inspired Expanding cards page.
-
-Cards with Background images that transitions and expands upon click.
-
+Cards with Background images that transitions and expands upon click. Inspired by Traversy Media.
 
 ## Tech Stack
 
