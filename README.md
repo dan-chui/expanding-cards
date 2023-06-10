@@ -1,5 +1,5 @@
 # Expanding Cards
-Cards with Background images that transitions and expands upon click. Inspired by Traversy Media.
+Cards with Background theme images that transitions and expands upon click. Inspired by Traversy Media.
 
 ## Tech Stack
 
